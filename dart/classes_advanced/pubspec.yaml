@@ -1,0 +1,13 @@
+name: classes_advanced
+description: A sample command-line application with basic argument parsing.
+version: 0.0.1
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.4.4
+
+dependencies:
+  equatable: ^2.0.5
+
+dev_dependencies:
+  pedantic: ^1.9.2

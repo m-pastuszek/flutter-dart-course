@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "test",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2024-08-04T10:34:42.305677Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.4",
+  "flutterRoot": "file:///E:/flutter",
+  "flutterVersion": "3.22.3",
+  "pubCache": "file:///C:/Users/Marcin/AppData/Local/Pub/Cache"
+}
